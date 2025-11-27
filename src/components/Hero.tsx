@@ -10,12 +10,11 @@ export default function Hero() {
             New Release
           </div>
           <h1 className="text-5xl md:text-7xl font-bold leading-tight">
-            Infinix Hot
-            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-gray-300 to-gray-100">
-              Pro Max
-            </span>
+            Infinix Hot <br />
+            <span className="text-blue-600 dark:text-blue-400">Pro Max</span>
           </h1>
           <h2 className="text-3xl md:text-4xl font-bold leading-tight">Rs 45,000</h2>
+          <h2>Varient: 8/256</h2>
           <p className="text-xl text-neutral-400 leading-relaxed">
             Experience the future of mobile technology. Powerful performance, stunning display, and exceptional camera capabilities in one revolutionary device.
           </p>
